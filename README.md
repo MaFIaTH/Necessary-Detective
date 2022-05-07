@@ -1,4 +1,4 @@
-# Necessary Detective 1
+# Necessary Detective
 
 ## Story Outline
 
@@ -20,7 +20,7 @@ and uncover an obscene and shocking truth behind the mysterious phenomenon.
 ## Read Online
 Check out my super-duper basic HTML website, so you can read online. Update simultaneously with this repo.
 
-https://necessary-detective-1.netlify.app
+https://necessary-detective.netlify.app
 
 ## Version Numbering
 - The first digit indicates an official release that has been proofread and confirmed that it is a full-fledged story. An increment in this digit signifies that the story has been expanded to the degree that it can be considered a sequel/prequel/spin-off to the original story.
