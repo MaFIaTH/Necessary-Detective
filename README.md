@@ -10,6 +10,11 @@ Many researchers have been perplexed by this phenomenon because no scientific ex
 It appears to be a routine job for Lucas, but little does he know that he will become the city's first detective to solve a murder in 13 years 
 and uncover an obscene and shocking truth behind the mysterious phenomenon.
 
+## Read Online
+Check out my super-duper basic HTML website, so you can read online. Update simultaneously with this repo.
+
+https://necessary-detective-1.netlify.app
+
 ## Disclaimer
 
 - Necessary Detective is my first piece of fiction, also I'm a non-native English speaker. Given this, my grammar and vocabulary are somewhat limited.
