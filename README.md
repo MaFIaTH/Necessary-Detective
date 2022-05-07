@@ -32,6 +32,7 @@ https://necessary-detective.netlify.app
 - If you want contribute, please refer to Contributing Guidelines and Code of Conduct.
 
 ## Version Numbering
+Current version: 0.0.0.1
 - The first digit indicates an official release that has been proofread and confirmed that it is a full-fledged story. An increment in this digit signifies that the story has been expanded to the degree that it can be considered a sequel/prequel/spin-off to the original story.
 - The second digit indicates major changes to the story. An increment in this digit signifies edit/addition/subtraction such as writing/erasing new category/subcategory (approximately 500+ words changes).
 - The third digit indicates minor changes to the story. An increment in this digit signifies edit/addition/subtraction such as writing/erasing new paragraph in an existing catagory/subcatagory (approximately less than 500 words changes).
