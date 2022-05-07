@@ -10,17 +10,17 @@ Many researchers have been perplexed by this phenomenon because no scientific ex
 It appears to be a routine job for Lucas, but little does he know that he will become the city's first detective to solve a murder in 13 years 
 and uncover an obscene and shocking truth behind the mysterious phenomenon.
 
-## Read Online
-Check out my super-duper basic HTML website, so you can read online. Update simultaneously with this repo.
-
-https://necessary-detective-1.netlify.app
-
 ## Disclaimer
-
+- As of right now (7/5/2022), the story is far from finish, the first case is not even started; so you can come back later if you want to read the detective stuff (the first case should be finished in 2-3 months).
 - Necessary Detective is my first piece of fiction, also I'm a non-native English speaker. Given this, my grammar and vocabulary are somewhat limited.
 - Some sections of the story may contain references to video games because I originally intended to turn this story into a video game at some point in the future.
 - This project is expected to be completed by 2026, before but not after I graduate from college.
 - Hope you have fun with the story! (providing that I make this project public at all lol).
+
+## Read Online
+Check out my super-duper basic HTML website, so you can read online. Update simultaneously with this repo.
+
+https://necessary-detective-1.netlify.app
 
 ## Version Numbering
 - The first digit indicates an official release that has been proofread and confirmed that it is a full-fledged story. An increment in this digit signifies that the story has been expanded to the degree that it can be considered a sequel/prequel/spin-off to the original story.
