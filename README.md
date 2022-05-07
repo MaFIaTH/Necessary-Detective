@@ -16,3 +16,8 @@ and uncover an obscene and shocking truth behind the mysterious phenomenon.
 - Some sections of the story may contain references to video games because I originally intended to turn this story into a video game at some point in the future.
 - This project is expected to be completed by 2026, before but not after I graduate from college.
 - Hope you have fun with the story! (providing that I make this project public at all lol).
+
+## Version Numbering
+- The first digit indicates an official release that has been proofread and confirmed that it is a full-fledged story. An increment in this digit signifies that the story has been expanded to the degree that it can be considered a sequel/prequel/spin-off to the original story.
+- The second digit indicates major changes to the story. An increment in this digit signifies edit/addition/subtraction such as writing/erasing new category/subcategory (approximately 500+ words changes).
+- The third digit indicates minor changes to the story. An increment in this digit signifies edit/addition/subtraction such as writing/erasing new paragraph in an existing catagory/subcatagory (approximately less than 500 words changes).
