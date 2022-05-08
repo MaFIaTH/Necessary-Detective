@@ -27,7 +27,7 @@ https://necessary-detective.netlify.app
 [![CC BY 4.0][cc-0-image]][cc-0]
  
 This work is licensed under a
-[Creative Commons Public Domain CC0 1.0][cc-0].
+[Creative Commons Zero v1.0 Universal][cc-0].
 
 [cc-0]: https://creativecommons.org/share-your-work/public-domain/cc0/
 [cc-0-image]: https://licensebuttons.net/p/zero/1.0/88x31.png
