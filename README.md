@@ -1,3 +1,4 @@
+[![CC0 1.0][cc-0-shield]][cc-0]
 # Necessary Detective
 
 ## Story Outline
@@ -23,6 +24,14 @@ Check out my super-duper basic HTML website, so you can read online. Update simu
 https://necessary-detective.netlify.app
 
 ## License
+[![CC BY 4.0][cc-0-image]][cc-0]
+ 
+This work is licensed under a
+[Creative Commons Public Domain CC0 1.0][cc-0].
+
+[cc-0]: https://creativecommons.org/share-your-work/public-domain/cc0/
+[cc-0-image]: https://licensebuttons.net/p/zero/1.0/88x31.png
+[cc-0-shield]: https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg
 - You can refer to CC0 license in [LICENSE.md](LICENSE.md) if you want a full detail on what you can/cannot do.
 - While not required by license, when you want to modify/adapt/built-upon my project, please at least leave an URL to this repo. It's just Ctrl+C & Ctrl+V.
 
