@@ -23,13 +23,13 @@ Check out my super-duper basic HTML website, so you can read online. Update simu
 https://necessary-detective.netlify.app
 
 ## License
-- You can refer to CC0 license in LICENSE.md if you want a full detail on what you can/cannot do.
-- If you want to modify/adapt/built-upon my project, please at least leave an URL to this repo. It's just Ctrl+C & Ctrl+V.
+- You can refer to CC0 license in [LICENSE.md](LICENSE.md) if you want a full detail on what you can/cannot do.
+- While not required by license, when you want to modify/adapt/built-upon my project, please at least leave an URL to this repo. It's just Ctrl+C & Ctrl+V.
 
 ## Contribution
 - I created this repo for publication and personnal work management. I've already have planned out most of the story, so I might not accept your contribution if it made too much changes to the way the story progresses.
 - Contribution to fix my grammar and enhance my lexicon is greatly appreciated!
-- If you want contribute, please refer to Contributing Guidelines and Code of Conduct.
+- If you want contribute, please refer to [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Version Numbering
 Current version: 0.0.0.1
