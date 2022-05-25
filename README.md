@@ -1,3 +1,4 @@
+[![CC0 1.0][cc-0-shield]][cc-0]
 # Necessary Detective
 
 ## Story Outline
@@ -23,15 +24,24 @@ Check out my super-duper basic HTML website, so you can read online. Update simu
 https://necessary-detective.netlify.app
 
 ## License
-- You can refer to CC0 license in LICENSE.md if you want a full detail on what you can/cannot do.
-- If you want to modify/adapt/built-upon my project, please at least leave an URL to this repo. It's just Ctrl+C & Ctrl+V.
+[![CC BY 4.0][cc-0-image]][cc-0]
+ 
+This work is licensed under a
+[Creative Commons Zero v1.0 Universal][cc-0].
+
+[cc-0]: https://creativecommons.org/share-your-work/public-domain/cc0/
+[cc-0-image]: https://licensebuttons.net/p/zero/1.0/88x31.png
+[cc-0-shield]: https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg
+- You can refer to CC0 license in [LICENSE.md](LICENSE.md) if you want a full detail on what you can/cannot do.
+- While not required by license, when you want to modify/adapt/built-upon my project, please at least leave an URL to this repo. It's just Ctrl+C & Ctrl+V.
 
 ## Contribution
 - I created this repo for publication and personnal work management. I've already have planned out most of the story, so I might not accept your contribution if it made too much changes to the way the story progresses.
 - Contribution to fix my grammar and enhance my lexicon is greatly appreciated!
-- If you want contribute, please refer to Contributing Guidelines and Code of Conduct.
+- If you want contribute, please refer to [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Version Numbering
+Current version: 0.0.0.1
 - The first digit indicates an official release that has been proofread and confirmed that it is a full-fledged story. An increment in this digit signifies that the story has been expanded to the degree that it can be considered a sequel/prequel/spin-off to the original story.
 - The second digit indicates major changes to the story. An increment in this digit signifies edit/addition/subtraction such as writing/erasing new category/subcategory (approximately 500+ words changes).
 - The third digit indicates minor changes to the story. An increment in this digit signifies edit/addition/subtraction such as writing/erasing new paragraph in an existing catagory/subcatagory (approximately less than 500 words changes).
