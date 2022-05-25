@@ -8,6 +8,7 @@ I do not expect many contributions, this is just a book project after all. Howev
     - 🅰️ `:a` for paraphrasing (changing vocab fits into this category)
     - 📄 `:page_facing_up` for formatting change.
     - 🌐 `:globe_with_meridians` for website coding (Anything language other than HTML is also acceptable).
+    - 🔖 `:bookmark` for markdown edit such as README.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md, etc.
     - 💻 `:computer` for coding unrelated to website (Don't know what is the use of this but added just in case).
     - 🤷 `:shrug` for anything that doesn't fit in any category above.
 3. I ***heavily*** suggest you to write a clear and desriptive title and description of your commit, for example:
